@@ -1,1 +1,0 @@
-{"context-menu":{"atom-text-editor":[{"label":"JS to string","command":"js-to-string:convert"}]},"menu":[{"label":"Packages","submenu":[{"label":"JS to string","submenu":[{"label":"Convert","command":"js-to-string:convert"}]}]}]}
