@@ -1,3 +1,9 @@
+## 1.0.5 (2021-01-15)
+
+### Changed:
+- Dependencies update
+
+
 ## 1.0.4 (2020-06-20)
 
 ### Added:
