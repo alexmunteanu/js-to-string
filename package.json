@@ -2,7 +2,7 @@
   "name": "js-to-string",
   "displayName": "JS to string",
   "main": "./lib/js-to-string",
-  "version": "0.0.0",
+  "version": "1.0.5",
   "description": "Converts the selected JS lines to string (single-line/concatenated).",
   "keywords": [
     "js",
